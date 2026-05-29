@@ -11,7 +11,7 @@
 
 ## 🚀 Overview
 
-A chance to get more ahnds on with NodeJS. A simple RPS game that can be played in the terminal, maiing use of stdin/stdout and event listening.
+A chance to get more hands on with NodeJS. A simple RPS game that can be played in the terminal, making use of stdin/stdout and event listening.
 
 ---
 
@@ -29,7 +29,7 @@ A chance to get more ahnds on with NodeJS. A simple RPS game that can be played 
 git clone https://github.com/mattpetts/Rock-Paper-Scissors-Node.git
 
 # Navigate into the directory
-cd repo-name
+cd Rock-Paper-Scissors-Node
 
 # Start the game
 node
